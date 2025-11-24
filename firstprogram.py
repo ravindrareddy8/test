@@ -11,3 +11,4 @@ print(f"Name: {name}, Age: {age}, Height: {height}, Student: {is_student}")
 age = "twenty-five"  # Now age is a string
 print(f"Age: {age}")
 print(f"name : {name}, Age : {age}, Height : {height}")
+print(f"name : {name}, Age : {age}, Height : {height}")
